@@ -12,6 +12,7 @@ public class HealthBarSmooth : HealthBar<Slider>
 
     protected override void ShowHealth(float health)
     {
+        StopCoroutine(ShowingHealth(health));
         StartCoroutine(ShowingHealth(health));
     }
 

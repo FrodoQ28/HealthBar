@@ -17,8 +17,6 @@ public class Health : MonoBehaviour
         {
             return _maxValue;
         }
-
-        private set { }
     }
 
     private void Awake()
