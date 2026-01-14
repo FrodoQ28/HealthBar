@@ -1,0 +1,14 @@
+{
+    "name": "Frodofnskf.Health.Editor.Tests",
+    "references": [
+        "Frodofnskf.Health.Editor",
+        "Frodofnskf.Health"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}

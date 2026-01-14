@@ -1,0 +1,11 @@
+{
+    "name": "Frodofnskf.Health.Tests",
+    "references": [
+        "Frodofnskf.Health"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": []
+}

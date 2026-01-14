@@ -1,0 +1,10 @@
+{
+    "name": "Frodofnskf.Health.Editor",
+    "references": [
+      "Frodofnskf.Health"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}
